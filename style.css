@@ -1,0 +1,63 @@
+body
+{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    font-family: 'Zilla Slab', serif;
+    color: white;
+}
+
+header
+{
+    
+}
+
+.title
+{
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+    font-family: 'Indie Flower', cursive;
+}
+
+.title h1
+{
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    letter-spacing: 2px;
+    padding: 10px;
+    font-size: 42px;
+}
+
+.logo
+{
+    width: 1200px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.number1
+{
+    float:left;
+}
+
+.number2
+{
+    float:left;
+}
+
+.number3
+{
+    float: right;
+}
+
+.title span
+{
+    color: red;
+}
+
+.number3 span
+{
+    color: red;
+}
